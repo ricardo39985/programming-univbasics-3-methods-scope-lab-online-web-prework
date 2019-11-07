@@ -10,3 +10,7 @@ end
 def any_phrase(x)
   puts x
 end
+
+def link
+  puts "It's Dangerous To Go Alone! Take This."
+end
